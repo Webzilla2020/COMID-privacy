@@ -2,7 +2,7 @@
 
 
 Términos y Condiciones de Uso para Comid
-Fecha de vigencia: 25/04/2024
+Fecha de vigencia: 04/09/2025
 
 Bienvenido a Comid, una aplicación diseñada para facilitar la visibilidad de negocios locales permitiendo a los usuarios registrar y compartir información sobre sus negocios, incluyendo ubicación, dirección, productos disponibles y más. Comid no participa en transacciones comerciales ni en el flujo de dinero entre usuarios.
 
